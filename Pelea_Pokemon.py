@@ -96,5 +96,4 @@ def simulacion_Pokemos():
     print(f"Total de peleas: {total_peleas}")
     print(f"{pokemon1.nombre} ganó {pokemon1.ganadas} y perdió {pokemon1.perdidas}")
 
-# Ejecutar el juego
 simulacion_Pokemos()
